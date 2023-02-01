@@ -1,0 +1,6 @@
+{
+    "./Button": "./src/components/Button/Button.tsx",
+    "./StyleProvider": "./src/styles/provider/StyleProvider.tsx",
+    "./Modal": "./src/components/Modal/Modal.tsx",
+    "./Text": "./src/components/Text/Text.tsx"
+}
